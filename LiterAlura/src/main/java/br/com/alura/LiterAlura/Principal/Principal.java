@@ -32,11 +32,11 @@ public class Principal {
         var opcao = -1;
         while (opcao != 0) {
             var menu = """
-                    1  - Buscar Livro pelo título
-                    2  - Listar livros registrados
-                    3  - Listar autores registrados
-                    4  - Listar autores vivos em um determinado ano
-                    5  - Listar livros em um determinado idíoma
+                    1  - Buscar Livro pelo Título
+                    2  - Listar Livros Registrados
+                    3  - Listar Autores Registrados
+                    4  - Listar Autores Vivos em um Determinado Ano
+                    5  - Listar Livros de um Determinado Idioma
                     0 - Sair                                 
                     """;
 
